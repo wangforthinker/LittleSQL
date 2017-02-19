@@ -1,0 +1,3 @@
+/Users/allen/cProject/LittleSQL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allen/cProject/LittleSQL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/allen/cProject/LittleSQL/cmake-build-debug/CMakeFiles/LittleSQL.dir
